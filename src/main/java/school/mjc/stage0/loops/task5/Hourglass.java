@@ -6,6 +6,7 @@ public class Hourglass {
             for (int j = 1;j < height + 1; j++){
                 System.out.println("8");
             }
+            System.out.println();
         }
     }
 }

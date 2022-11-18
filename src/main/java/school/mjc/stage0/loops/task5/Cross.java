@@ -6,10 +6,11 @@ public class Cross {
 
             for (int j = 0; j <= sideLength;j++){
                 if (i == j){
-                  System.out.println("8");
+                  System.out.println(i + j);
                 }
                 System.out.println("8");
             }
+            System.out.println();
         }
     }
 }

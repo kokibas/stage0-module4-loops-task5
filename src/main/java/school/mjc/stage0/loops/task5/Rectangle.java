@@ -6,6 +6,7 @@ public class Rectangle {
             for (int j = 0;j < height;j++){
                 System.out.println("8");
             }
+            System.out.println();
         }
     }
 }
